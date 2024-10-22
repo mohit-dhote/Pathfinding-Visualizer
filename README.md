@@ -2,7 +2,8 @@
 
 A dynamic and interactive web-based **Pathfinding Visualizer** that demonstrates how popular algorithms traverse grids to find the optimal path. This project helps users understand the inner workings of various pathfinding algorithms through real-time visualizations.
 
-![Pathfinding Visualizer Screenshot)
+![Pathfinding Visualizer Screenshot]
+![Screenshot 2024-10-22 115915](https://github.com/user-attachments/assets/5f40fcb5-0fee-42db-be25-75715361a5d8)
 
 ---
 
